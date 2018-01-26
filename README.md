@@ -1,5 +1,4 @@
 # Intro-to-Machine-Learning
-<<<<<<< HEAD
 
 =======
 
